@@ -1,52 +1,44 @@
-# 2D Game
-จัดทำโดย นายณัฐภูมิ แสนศิริโภค 673450189-9
-// โดยแต่ละ Animation
-/ จะทำงานได้ต้องเชื่อมกันใน Animator เพื่อให้ได้ผลรับที่ถูกต้องซะก่อนช
+# DunDubGeon
+โดยฉากทั้งหมดจะมี 8 ฉาก
 
-<img width="688" height="306" alt="image" src="https://github.com/user-attachments/assets/dab93e97-11d6-417c-b222-e12300239c97" />
+<h1>Main Menu</h1>
+จัดทำโดน นานนนทิวรรธน์ นนท์คำจันทร์
+673450196-2
+ในฉากนี้จะเป็นหน้าคำสั่งเพื่อเชื่อมไปยัง ฉากแรกของตัวเกม และปุ่มปิดเกม
+<img width="662" height="383" alt="Screenshot 2025-10-23 183907" src="https://github.com/user-attachments/assets/76b1cfc3-f46c-4e17-9326-791cf843412e" />
 
-# Idle ท่ายืนเฉยๆ
-<img width="248" height="221" alt="Screenshot 2025-09-14 172226" src="https://github.com/user-attachments/assets/3392261f-3269-4bb0-9f26-cc1058c3f6f0" />
+<h1>Level 1 & Game Over</h1>
+จัดทำโดย นายณัฐภูมิ แสนศิริโภค
+673450189-9
+ในฉากนี้จะเป็น Level แรกของเกมจะมีการใส่ Gem Player และ Enemy เข้ามาและเพิ่มการทำดาเมจให้กับทั้งตัว Enemy และ Player และ spike หรือหนามในแมพ โดย Player จะสามารถฟัน Enemy ให้ตายได้และ Enemy ก็สามารถทำให้ Player ตายได้เช่นกัน
+<img width="852" height="386" alt="Screenshot 2025-10-23 183810" src="https://github.com/user-attachments/assets/8ea9b9b7-f050-4f2c-9dc2-1556d779c5fe" />
 
+ส่วนฉากนี้จะเป็นฉากตอนตัวตัวละครได้รับดาเมจจนถึงฉาก Game Over
+<img width="625" height="441" alt="Screenshot 2025-10-23 183932" src="https://github.com/user-attachments/assets/5199aa57-16c4-4a24-a55c-b1ceed627ee7" />
 
-โดยจะเป็นท่าเริ่มต้นของตัวละครเป็นการยืนอยู่กับที่ยังไม่มีการขยับใดๆ
+ฉากตอน Player โดน ดาเมจทั้งจาก Enemy และ Spike
+<img width="165" height="146" alt="Screenshot 2025-10-27 181409" src="https://github.com/user-attachments/assets/4680906c-7c4f-4c8c-9988-20d8d613735e" />
+<img width="169" height="155" alt="Screenshot 2025-10-27 181432" src="https://github.com/user-attachments/assets/105b1161-491c-4cfe-96e4-7f3eb010d7dc" />
 
-# Move ท่าเดิน
-<img width="130" height="109" alt="Screenshot 2025-09-14 172330" src="https://github.com/user-attachments/assets/d98935ae-7581-451b-8309-85f923f69e0c" />
-<img width="152" height="119" alt="Screenshot 2025-09-14 172325" src="https://github.com/user-attachments/assets/9ec74186-c683-47af-b1a7-8c6d19ff1fd2" />
+ฉากตอน Player ทำดาเมจใส่ Enemy
+<img width="240" height="278" alt="Screenshot 2025-10-27 181455" src="https://github.com/user-attachments/assets/a9e325b5-6592-47a4-8672-f5aa4b2bd4ab" />
 
+<h1>Level 2 & Level 3</h1>
+จัดทำโดย นางสาวอัยรดา โพธิ์ราศรี
+673450206-5
+ในฉากนี้จะเหมือนกับฉากแรกแต่มีการตกแต่งเปลี่ยนรูปแบบฉากเพื่อเปลี่ยนอารมณ์ของตัวเกม
+<img width="842" height="404" alt="Screenshot 2025-10-23 183826" src="https://github.com/user-attachments/assets/16f4d630-7a2a-44cb-9c59-1ec29a40bf6d" />
+<img width="824" height="407" alt="Screenshot 2025-10-23 183820" src="https://github.com/user-attachments/assets/6cb9b594-d481-47d3-be32-e713fb2ece83" />
 
-โดยจะมีอนิเมชั่นการเดินแค่ทางเดียวแต่เป็นการเขียนเซ็ตให้พอเดินถอยหลังก็กลับภาพเพื่อให้เหมือนเดินไปข้างหลัง
+<h1>Level 3 & Level 4</h1>
+จัดทำโดย นางสาวนริศรา มาตย์สุด
+673450037-2
+ในฉากนี้จะเหมือนกับฉากแรกแต่มีการตกแต่งเปลี่ยนรูปแบบฉากเพื่อเปลี่ยนอารมณ์ของตัวเกม
+<img width="691" height="375" alt="Screenshot 2025-10-23 183847" src="https://github.com/user-attachments/assets/598bd001-207f-4890-8f22-ea10e1bae535" />
+<img width="898" height="329" alt="Screenshot 2025-10-23 183840" src="https://github.com/user-attachments/assets/bec85b74-2b0f-4b7a-a94c-3db748b245ab" />
 
-# Jump ท่ากระโดด
-<img width="158" height="165" alt="Screenshot 2025-09-14 172254" src="https://github.com/user-attachments/assets/87a003da-35c5-4923-95bf-3a577561ce4f" />
-
-
-ท่าที่จะทำงานเมื่อกดปุ่มกระโดดเท่านั้น
-
-# Hurt ท่าเจ็บ
-<img width="168" height="155" alt="Screenshot 2025-09-14 172248" src="https://github.com/user-attachments/assets/b1794821-f4ba-4753-8d54-4d69f6e867f7" />
-
-
-โดยจะเกิดขึ้นก็ต่อเมื่อตัวละครไปโดนวัตถุที่ทำดาเมจใส่ผู้เล่นได้เท่านั้น
-
-# Death ท่าตาย
-<img width="166" height="115" alt="Screenshot 2025-09-14 172259" src="https://github.com/user-attachments/assets/87860d41-fc2f-43e4-98b6-4bf35b5ea17a" />
-
-
-โดยจะเกิดต่อเมื่อตัวผู้เล่นไปชนสิ่งของที่มอบดาเมจใส่ผู้เล่นจนเลือดหมดตัวนั้นเอง
-
-# Health Bar
-<img width="957" height="134" alt="image" src="https://github.com/user-attachments/assets/adb22065-5dd9-48dc-bfb8-50a95bc89637" />
-
-
-คือหลอดเลือดของตัวละคร โดยถ้าหากถูกดาเมจหลอดข้างในก็จะลดด้วยเช่นกัน
-
-
-<img width="968" height="128" alt="image" src="https://github.com/user-attachments/assets/e08d3d9a-ed85-4591-bb19-4ae3b35a62d3" />
-
-# Game Over
-<img width="961" height="547" alt="image" src="https://github.com/user-attachments/assets/98edae61-cbb5-41a3-896b-6770d00bf694" />
-
-
-โดยจะขึ้นมาก็ต่อเมื่อผู้เล่นโดนดาเมจจนเสียชีวิตนั้นเอง
+<h1>Level 5</h1>
+จัดทำโดย นายกฤติน อินทร์ตระกูล
+673450030-6
+ในฉากนี้จะเหมือนกับฉากแรกแต่มีการตกแต่งเปลี่ยนรูปแบบฉากเพื่อเปลี่ยนอารมณ์ของตัวเกม
+<img width="764" height="398" alt="Screenshot 2025-10-23 183857" src="https://github.com/user-attachments/assets/7138f113-f2af-4ce5-a55a-ac000278c65a" />
